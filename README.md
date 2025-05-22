@@ -1,14 +1,4 @@
-- Some common commands
+- fsgen hack for duplicate errors
 ```
-nano d*/x*/s*/B*
+wget https://github.com/glitch-wraith/Building-Help/blob/main/fsgen_hacks.sh && chmod +x fsgen_hacks.sh && ./fsgen_hacks.sh && rm fsgen_hacks.sh
 ```
-
-
-- Infinity X
-    - device/lineage
-    - vendor/infinity
-    - Edit
-```
-nano d*/lineage/sepolicy/common/private/property_contexts
-```
-      
