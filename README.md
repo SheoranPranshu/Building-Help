@@ -20,3 +20,9 @@ wget https://github.com/glitch-wraith/Building-Help/raw/refs/heads/main/update_f
 ```
 wget https://github.com/glitch-wraith/Building-Help/raw/refs/heads/main/setup_rbe.sh && chmod +x setup_rbe.sh
 ```
+- .
+- rbe configuration file (edit before using)
+- .
+```
+wget https://github.com/glitch-wraith/Building-Help/raw/refs/heads/main/rbe.conf && chmod +x rbe.conf
+```
