@@ -70,9 +70,3 @@ These files help you configure your environment for building with Google's Remot
     ```bash
     wget https://github.com/glitch-wraith/Building-Help/raw/refs/heads/main/setup_rbe.sh && chmod +x setup_rbe.sh
     ```
-
-4.  **Activate the RBE environment.** Each time you start a new terminal session for building, you must `source` the setup script. This will load the configuration and export the necessary variables for your build.
-    ```bash
-    # From the root of your Android source
-    source /path/to/your/scripts/setup_rbe.sh
-    ```
