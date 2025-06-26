@@ -50,9 +50,9 @@ echo -e "${GREEN}  > Fetch complete.${NC}"
 echo -e "\n${YELLOW}Step 4: Cherry-picking required commits...${NC}"
 # Storing commits in an array makes them easier to manage
 COMMITS_TO_PICK=(
-    "1218ccfca0ffeefbe089f73af58cdcbbee53e89a"
-    "1409570931f88bfe23f0d48e0cbb2329d87ddfd1"
-    "f5c4c61cfd2e495e504f432c419bcccdaf26df88"
+    "08f17f2dc449d9c3d3bb4ea357bb1a374eb2e22d"
+    "e644e36bf4adef78c74eda1797a57f8418cac3b4"
+    "e028ea05a1d5e291296447ba364a3d8c71008ef7"
 )
 
 # Loop through the array and cherry-pick each commit
