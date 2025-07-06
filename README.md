@@ -34,19 +34,19 @@ This setup dramatically accelerates build times by offloading compilation tasks 
 **Commands:**
 
 **A) First-Time Setup:**
-Download the script and the configuration file template.
+- Download the script and the configuration file template.
 ```bash
 # Download the script and its config file
 wget https://github.com/glitch-wraith/Building-Help/raw/refs/heads/main/setup_rbe.sh
 wget https://github.com/glitch-wraith/Building-Help/raw/refs/heads/main/rbe.conf
 chmod +x setup_rbe.sh
 ```
-Edit rbe.conf
+- Edit rbe.conf
 ```
 nano rbe.conf
 ```
-**Usage**
-Use this command befor mka
+- **Usage**
+  - Use this command befor mka
 ```
 source ./setup_rbe.sh
 ```
