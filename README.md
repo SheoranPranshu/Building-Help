@@ -46,7 +46,7 @@ chmod +x setup_rbe.sh
 nano rbe.conf
 ```
 - **Usage**
-  - Use this command befor mka
+  - Use this command before mka
 ```
 source ./setup_rbe.sh
 ```
